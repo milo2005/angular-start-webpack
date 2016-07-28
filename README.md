@@ -1,6 +1,6 @@
 #Angular Start
 
-Proyecto base para iniciar el desarrollo en **Angular 2.0**.
+Proyecto base para iniciar el desarrollo en **Angular 2.0** con webpack.
 
 - [Requerimientos](#requermientos)
 - [Instalacion](#instalacion)

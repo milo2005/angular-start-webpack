@@ -5,9 +5,13 @@ import 'rxjs/add/observable/throw';
 import 'rxjs/add/operator/catch';
 import 'rxjs/add/operator/map';
 
+declare var Materialize:any;
+
 @Component({
   selector:"my-app",
   template:"<router-outlet></router-outlet>",
   directives:[ROUTER_DIRECTIVES]
 })
-export class AppComponent {}
+export class AppComponent {
+
+}

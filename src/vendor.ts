@@ -7,5 +7,11 @@ import '@angular/http';
 import '@angular/router';
 // RxJS
 import 'rxjs';
-// Other vendors for example jQuery, Lodash or Bootstrap
-// You can import js, ts, css, sass, ...
+
+//Materialize
+//import '../node_modules/hammerjs/hammer.min.js';
+//import '../node_modules/jquery/dist/jquery.min.js';
+
+import '../node_modules/materialize-css/dist/js/materialize.min.js';
+import '../node_modules/materialize-css/dist/css/materialize.min.css';
+import './assets/styles/main.css';
